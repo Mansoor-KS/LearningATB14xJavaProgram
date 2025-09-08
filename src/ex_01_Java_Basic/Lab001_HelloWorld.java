@@ -5,5 +5,6 @@ public class Lab001_HelloWorld {
         System.out.println("Hello World");
         //commit new chnages
         System.out.println("1+1=2");
+        System.out.println("1+1=3");
     }
 }
