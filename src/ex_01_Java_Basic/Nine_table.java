@@ -1,5 +1,5 @@
 package ex_01_Java_Basic;
-
+//int i = 11;
 public class Nine_table {
     public static void main(String[] args) {
         int tab = 9;
@@ -18,5 +18,6 @@ public class Nine_table {
         System.out.printf("%d x 8 = %d%n", tab, tab*8);
         System.out.printf("%d x 9 = %d%n", tab, tab*9);
         System.out.printf("%d x 10 = %d%n", tab, tab*10);
+       // System.out.println(tab);
     }
 }
