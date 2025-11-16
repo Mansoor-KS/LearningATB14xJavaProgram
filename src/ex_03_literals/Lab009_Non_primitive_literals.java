@@ -5,6 +5,9 @@ public class Lab009_Non_primitive_literals {
         String name = "mansooor";
 
         int[] array_items = new int[10];
+        int binary_num = 0b1010;
+        int b = 0x123;
+        System.out.println(binary_num);
 
 
     }

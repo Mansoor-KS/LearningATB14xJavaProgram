@@ -1,6 +1,5 @@
-package ex_30_Collection_Framework;
+package ex_30_Collection_Framework.CF_01_List;
 
-import java.lang.reflect.Array;
 import java.util.Arrays;
 
 public class Lab00180_226_Array_Problem {
